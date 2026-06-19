@@ -1,0 +1,6 @@
+{
+  "name": "Hawthorne Auto Clinic",
+  "description": "Premium, modern website for Hawthorne Auto Clinic—a top-tier female-owned, community-focused, and environmentally conscious automotive service facility in Portland, Oregon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
